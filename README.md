@@ -1,6 +1,6 @@
 # Cinema Room Manager
 
-This my project, which I was write on JetBrains Academy.
+This is my project, which I was write on JetBrains Academy.
 
 ***[Topics]*** package includes all topics, which I was finish
 
