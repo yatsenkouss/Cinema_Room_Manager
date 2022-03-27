@@ -1,0 +1,6 @@
+content:
+- Theory
+- Avoid NPE with strings
+- Code that throws an exception
+- Unknown input
+- Return empty string when argument is null
